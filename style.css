@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.body-1{
+    background-image: url('https://demo.themefisher.com/eventre-bootstrap/images/background/homepage-one-banner.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.body-3 {
+     background-image: url('https://demo.themefisher.com/eventre-bootstrap/images/background/spaeker-background.jpg');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+.abc{
+    background-image: url('https://demo.themefisher.com/eventre-bootstrap/images/background/registration-background.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+    
+}
+.body-7{
+    background-image: url('https://demo.themefisher.com/eventre-bootstrap/images/background/cta-ticket-bg.jpg');
+    background-repeat: no-repeat;
+}
+.body-8{
+    background-image: url('https://demo.themefisher.com/eventre-bootstrap/images/background/sponsors-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.body-10{
+    background-image: url('https://demo.themefisher.com/eventre-bootstrap/images/background/newsletter-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
